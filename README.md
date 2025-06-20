@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiroop M P</h1>
 <h3 align="center">A passionate Data Science And Analysis student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiroop-mp" alt="abhiroop-mp" /></a> </p>
+
 
 - 🔭 I’m currently working on [PowerBi projects](https://github.com/Abhiroop-mp/Spotify_Data_Analysis)
 
