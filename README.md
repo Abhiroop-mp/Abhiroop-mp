@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [PowerBi projects](https://github.com/Abhiroop-mp/Spotify_Data_Analysis)
+- 🔭 I’m currently working on [Data Science Projects](https://github.com/Abhiroop-mp)
 
 - 🌱 I’m currently learning **Deep Learning, NLP.**
 
